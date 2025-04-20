@@ -61,15 +61,15 @@ Constantly updated and visible at the top left of the screen, uses large white t
 
 #### Game Over Panel
 
-Fades in after collision. Displays final score and restart button.
+- Fades in after collision. Displays final score and restart button.
 
  #### Start Screen
 
-Displays instructions and "Tap to Start" prompt.
+- Displays instructions and "Tap to Start" prompt.
 
 #### Background & Pipes
 
-Designed for contrast with the bird sprite and UI, enabling clear visibility.
+- Designed for contrast with the bird sprite and UI, enabling clear visibility.
 
 ### 🧠 UX Considerations
 
